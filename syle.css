@@ -1,0 +1,60 @@
+body {
+    font-family: Poppins,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #848484;
+    line-height: 25px;
+    letter-spacing: .2px;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+}
+#services {
+    padding: 100px 0px;
+
+}
+#services.head {
+    text-align: center;
+    position: relative;   
+}
+#services.head h1 {
+    margin: 0 0 25px;
+    text-transform: capitalize;
+    font-weight: 700;
+    color: #fe5619;
+    font-size: 36px;
+
+}
+#services.head p {
+margin: 0px 0px 30px;
+}
+#services .items .service-item{
+    background-color: #f5f8f9;
+    padding: 30px 20px;
+    margin-top: 30px;
+    text-align: center;
+    margin: 0 10px;
+    margin-bottom: 10px;
+}
+
+#services .items .service-item i{
+    font-size: 64px;
+    margin-left: 0;
+    display: block;
+    line-height: 1;
+    color: #fe5619;
+    margin-bottom: 20px;
+}
+
+#services .items .service-item h3{
+    margin: 0 0 10px;
+}
+
+#services .items .service-item p{
+    margin: 0;
+}
+
+
+#blog{
+    margin: 100px 0px;
+}
+
